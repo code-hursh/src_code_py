@@ -1,0 +1,6 @@
+a = input()
+b = input()
+c = input()
+print(a+'ss')
+print(b +  'ss')
+print(c + 'um')

@@ -1,0 +1,8 @@
+Computer Science
+NOTES on reading files
+
+if you want to remove the trouble of handling escape sequences:
+    r'string' is a.k.a. raw string
+if you want to read the file with a single statement:
+    open(r'filepath','mode').read()
+

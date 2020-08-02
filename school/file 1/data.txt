@@ -1,0 +1,54 @@
+S.N. Name of Urban Agglomeration Population
+1. Srinagar UA 1,273,312
+2. Ludhiana (M Corpl) 1,613,878
+3. Amritsar UA 1,183,705
+4. Chandigarh UA 1,025,682
+5. Faridabad (M Corp.) 1,404,653
+6. Delhi UA 16,314,838
+7. Jaipur (M Corp.) 3,073,350
+8. Jodhpur UA 1,137,815
+9. Kota (M Corp.) 1,001,365
+10. Kanpur UA 2,920,067
+11. Lucknow UA 2,901,474
+12. Ghaziabad UA 2,358,525
+13. Agra UA 1,746,467
+14. Varanasi UA 1,435,113
+15. Meerut UA 1,424,908
+16. Allahabad UA 1,216,719
+17. Patna UA 2,046,652
+18. Kolkata UA 14,112,536
+19. Asansol UA 1,243,008
+20. Jamshedpur UA 1,337,131
+21. Dhanbad UA 1,195,298
+22. Ranchi UA 1,126,741
+23. Raipur UA 1,122,555
+24. Durg-Bhillainagar UA 1,064,007
+25. Indore UA 2,167,447
+26. Bhopal UA 1,883,381
+27. Jabalpur UA 1,267,564
+28. Gwalior UA 1,101,981
+29. Ahmedabad UA 6,352,254
+30. Surat UA 4,585,367
+31. Vadodara UA 1,817,191
+32. Rajkot UA 1,390,933
+33. Greater Mumbai UA 18,414,288
+34. Pune UA 5,049,968
+35. Nagpur UA 2,497,777
+36. Nashik UA 1,562,769
+37. Vasal Virar City (M Corp.) 1,221,233
+38. Aurangabad UA 1,189,376
+39. Hyderabad UA 7,749,334
+40. GVMC (MC) 1,730,320
+41. Vijayawada UA 1,491,202
+42. Bengaluru UA 8,499,399
+43. Kochi UA 2,117,990
+44. Kozhikode UA 2,030,519
+45. Thrissur UA 1,854,783
+46. Malappuram UA 1,698,645
+47. Thiruvananthapuram UA 1,687,406
+48. Kannur UA 1,642,892
+49. Kollam UA 1,110,005
+50. Chennai UA 8,696,010
+51. Coimbatore UA 2,151,466
+52. Madurai UA 1,462,420
+53. Tiruchirappalli UA 1,021,717
