@@ -7,8 +7,6 @@ def isprime(number):
             return(False)
         if witness**2 > number:
             break
-    return True
-
 for number in range(2,N):
     if isprime(number):
         print(number)
