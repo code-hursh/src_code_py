@@ -2,8 +2,8 @@ import socket
 
 class Network:
     def __init__(self):
-        self.client = socket.socket(socket.AF_NET,socket.SOCK_STREAM)
-        self.server = "192.168.1.34"
+        self.client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+        self.server = "172.26.185.92"
         self.port = 5555
         self.addr = (self.server, self.port)
         self.id = self.connect()
@@ -12,7 +12,7 @@ class Network:
     def connect(self):
         try:
             self.client.connect(self.addr)
-            self.return(self.client.recv(2048).decode())
+            return(self.client.recv(2048).decode())
         except:
             pass
 
