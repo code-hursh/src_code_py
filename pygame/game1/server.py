@@ -2,6 +2,7 @@ import socket
 from _thread import *
 import sys
 # 172.26.185.92 
+# 208.67.222.222
 server = "172.26.185.92"
 port = 5555
 
