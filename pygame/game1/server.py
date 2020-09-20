@@ -3,6 +3,7 @@ from _thread import *
 import sys
 # 172.26.185.92 
 # 208.67.222.222
+ip = socket.gethostbyname('www.google.com')
 server = "172.26.185.92"
 port = 5555
 
